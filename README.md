@@ -6,7 +6,7 @@
 
  **I am a Student with a strong interest in Computer Science, Robotics and Cyber Security**  
 🎀 Currently jobless, working on my high school diploma…    
-I really like, coffee  and sparkly tech gadgets ✨  
+I really like coffee  and sparkly tech gadgets ✨  
 coder by curiosity  
 
 ---
