@@ -4,7 +4,7 @@
 <h3 align="center">girly in stem</h3>
  Hello my Name is Mariam ! 🎀
 
- **I am a Student with a strong interest in Computer Science, Robotics and Cyber Security. One of my Goals is to become a dual Student**  
+ **I am a Student with a strong interest in Computer Science, Robotics and Cyber Security. One of my Goals is to become a dual Student.**  
 🎀 Currently jobless, working on my high school diploma…    
 I really like coffee  and sparkly tech gadgets ✨  
 coder by curiosity  
