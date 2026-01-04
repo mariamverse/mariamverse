@@ -18,9 +18,8 @@ coder by curiosity
 ---
 ### Fun facts
 - I get super excited over code that works   
-- I believe pretty keyboards are life ⌨️
 - Currently building small projects 
-- Always up for solving puzzles and challenges 🧩
+- Always up for solving puzzles and challenges 
 ---
 ### Let's connect!
 - 🌐 I am so excited to learn more!!!   
