@@ -21,7 +21,6 @@
 - 👩‍💻 Learning new programming languages every day  
 - 🤖 Robotics enthusiast  
 - 🔐 Cybersecurity newbie but super curious  
-- 🎨 Pink-themed everything makes me happy  
 - 🐾 Cat lover 
 
 ---
