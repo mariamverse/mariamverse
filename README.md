@@ -1,7 +1,7 @@
 <!-- "hihi booo"-->
 
 </div>
-## Hi, I'm Mariam !
+Hi, I'm Mariam !
 
 Prospective dual student with a strong interest in
 Computer Science, Robotics and Cyber Security.
